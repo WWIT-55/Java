@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //-------3/18---------
+=======
+
+>>>>>>> a72fb99a6d680f957418c30c344c7b8dd115bd90
 
 package ex4.struct;
 
@@ -32,7 +36,10 @@ public class Program10 {
 
 		}
 		//---------------------------------------
+<<<<<<< HEAD
 		Covid19[] list; 
+=======
+>>>>>>> a72fb99a6d680f957418c30c344c7b8dd115bd90
 		// 레코드를 로드하는코드
 		{
 
@@ -60,7 +67,11 @@ public class Program10 {
 			fis.close();
 
 			// ----------------------------
+<<<<<<< HEAD
 			// 레코드를 출력하는 코드
+=======
+			// 출력하는 코드
+>>>>>>> a72fb99a6d680f957418c30c344c7b8dd115bd90
 			for (int j = 0; j < count; j++) {
 				for (int i = 0; i < 10; i++) {
 					System.out.printf("%s", rows[j][i]);

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ///----0319
 package ex4.struct;
 
@@ -132,3 +133,25 @@ public class Program {
 	}
 
 
+=======
+package ex4.struct;
+
+public class Program {
+	
+	public static void main(String[] args) {
+		
+		String[] row1 =new String[3];
+		row1[2] = "30";
+		row1[1] = "30";
+		
+		Covid19 row2 = new Covid19();
+		row2.deaths =  30;
+		row2.positive = 30;
+		row2.test = 30;
+			
+
+	}
+	
+}
+ 
+>>>>>>> a72fb99a6d680f957418c30c344c7b8dd115bd90

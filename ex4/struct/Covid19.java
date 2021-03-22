@@ -1,6 +1,7 @@
 package ex4.struct;
 
 public class Covid19 {
+<<<<<<< HEAD
 	//2차원 배열을 1차원배열로 만들기 위해서 covid19를 만듦.
 	String date; //기준일자
 	int cases; //제주 확진자
@@ -12,6 +13,14 @@ public class Covid19 {
 	int selfQuarantineDoestic;//자가격리(확진자 접촉)
 	int selfQuarantineImported;//자가격리 (해외입국)
 	String pubDate; //데이터기준일자
+=======
+	String date;
+	int positive;
+	int deaths;
+	int test;
+	
+	
+>>>>>>> a72fb99a6d680f957418c30c344c7b8dd115bd90
 	
 	
 }
